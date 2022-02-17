@@ -18,6 +18,11 @@ Users should be able to:
 
 (Add link to Github Pages)
 
+### Branches
+
+- master - starter code without styles
+- styles-in-progress - everything we already did
+
 ### Screenshot
 
 (Add a screenshot when the project is done).
